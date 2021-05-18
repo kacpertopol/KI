@@ -1,5 +1,5 @@
 ---
-title: Nasz ślub
+title: Ślub Izy i Kacpra
 ---
 
 # O nas
