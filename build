@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pandoc KacperIza.md -o index.html --mathjax --template ./wedding.html
