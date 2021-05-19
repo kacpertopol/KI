@@ -12,7 +12,7 @@ znajdująca się przy ulicy *Jodłowej 13a* w krakowskiej dzielnicy Przegrzały 
 
 # Plan wieczoru
 
-- Rozpoczęcie planowane jest na godzinę 16.00 ale możemy się spotkać odrobinę wcześniej
+- Rozpoczęcie planowane jest na godzinę 16.00 ale możemy się spotkać pół godziny wcześniej
 - Przysięga małżeńska zostanie złożona przed świadkami oraz przedstawicielem urzędu miasta
 - Po złożeniu przysięgi zapraszamy na uroczystą kolację, która również odbędzie się w Baszcie 
 
