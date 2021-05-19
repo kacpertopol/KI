@@ -32,11 +32,11 @@ Jesteśmy dostępni pod numerami telefonów:
 
 ## Izabela Piotrowska
 
-TODO
+TODO - króciutko
 
 ## Kacper Topolnicki
 
-TODO
+TODO - króciutko
 
 <!--![](./K.png)-->
 
