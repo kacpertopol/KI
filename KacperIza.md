@@ -25,8 +25,8 @@ znajdująca się przy ulicy *Jodłowej 13a* w krakowskiej dzielnicy Przegrzały 
 
 Jesteśmy dostępni pod numerami telefonów:
 
-- Iza: (+48) 111 111 111
-- Kacper: (+48) 222 222 222
+- Iza: (+48) 111 111 111 111
+- Kacper: (+48) 222 222 222 222
 
 # O nas
 
