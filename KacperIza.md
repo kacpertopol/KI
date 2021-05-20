@@ -28,7 +28,7 @@ Baszty, po czym przejdziemy do restauracji na uroczystą kolację.
 
 Uprzejmie prosimy o potwierdzenie przybycia na uroczystość do 15 czerwca. 
 
-# Rezerwacja pokoi hotelowych
+# Nocleg
 
 Dla wszystkich gości spoza Krakowa dostępne będą pokoje w Hotelu Wolskim, 
 który znajduje się nieopodal Baszty. Rezerwacji możecie dokonać za pośrednictwem strony hotelu 
