@@ -26,7 +26,7 @@ Baszty, po czym przejdziemy do restauracji na uroczystą kolację.
 
 # Potwierdzenie 
 
-Uprzejmie prosimy o potwierdzenie przybycia na uroczystość do 15 czerwca. 
+Uprzejmie prosimy o potwierdzenie przybycia na uroczystość do 20 czerwca. 
 
 # Nocleg
 
@@ -37,8 +37,8 @@ lub możecie się odezwać do nas i my się tym zajmiemy.
 
 # Kontakt
 
-- Iza: (+48) 111 111 111 111
-- Kacper: (+48) 222 222 222 222
+- Iza: (+48) 783 480 086
+- Kacper: (+48) 728 364 517
 
 # Dodatkowe informacje
 
