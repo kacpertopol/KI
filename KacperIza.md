@@ -42,7 +42,7 @@ lub możecie się odezwać do nas i my się tym zajmiemy.
 
 # Dodatkowe informacje
 
-![](./dodatkowe.jpg)
+[![](./dodatkowe1.jpg)](https://pck.pl/wspieraj-nas/przekaz-darowizne/)
 
 # ... nasze plany na przyszłość ...
 
