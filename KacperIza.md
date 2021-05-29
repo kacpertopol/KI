@@ -50,8 +50,6 @@ lub możecie się odezwać do nas i my się tym zajmiemy.
 
 # Nasze plany na przyszłość ...
 
-... i żyli długo i szczęśliwie.
-
 [![](./p.jpg)](https://www.reddit.com/user/earthtokeebs)
 
-
+... i żyli długo i szczęśliwie.
