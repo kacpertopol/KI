@@ -24,10 +24,6 @@ czekać na Was na miejscu od 15.30 żeby mieć okazję z wszystkimi się przywit
 złożeniu przysięgi będzie czas na lampkę szampana, życzenia i kilka zdjęć na tarasie 
 Baszty, po czym przejdziemy do restauracji na uroczystą kolację. 
 
-# Potwierdzenie 
-
-Uprzejmie prosimy o potwierdzenie przybycia na uroczystość do 20 czerwca. 
-
 # Nocleg
 
 Dla wszystkich gości spoza Krakowa dostępne będą pokoje w Hotelu Wolskim, 
